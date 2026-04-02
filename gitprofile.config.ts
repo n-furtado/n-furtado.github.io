@@ -52,12 +52,12 @@ const CONFIG = {
     },
   },
   seo: {
-    title: 'Portfolio of Tricia Van Laar',
+    title: 'Portfolio of Nina Furtado',
     description: '',
     imageURL: '',
   },
   social: {
-    linkedin: 'tvanlaar',
+    linkedin: '',
     x: '',
     mastodon: '',
     researchGate: '',
@@ -74,9 +74,9 @@ const CONFIG = {
     stackoverflow: '', // example: '1/jeff-atwood'
     skype: '',
     telegram: '',
-    website: 'https://tvanlaar.github.io',
-    phone: '',
-    email: 'tvanlaar@csustan.edu',
+    website: 'https://n-furtado.github.io',
+    phone: '916 430 8026',
+    email: 'nfurtado1@csustan.edu',
   },
   resume: {
     fileUrl:
@@ -124,10 +124,10 @@ const CONFIG = {
   ],
   education: [
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2015',
-      to: '2019',
+      institution: 'California State University Stanislaus',
+      degree: 'Biological Sciences',
+      from: '2023',
+      to: 'current',
     },
     {
       institution: 'Institution Name',
