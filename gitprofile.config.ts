@@ -83,28 +83,19 @@ const CONFIG = {
       'https://github.com/tvanlaar/gitprofile/raw/main/VanLaarCV.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
-    'PHP',
-    'Laravel',
-    'JavaScript',
-    'React.js',
-    'Node.js',
-    'Nest.js',
-    'MySQL',
-    'PostgreSQL',
-    'Git',
-    'Docker',
-    'PHPUnit',
-    'CSS',
-    'Antd',
-    'Tailwind',
+    'Excel',
+    'Microsoft Teams',
+    'Galaxy',
+    'git hub',
+    
   ],
   experiences: [
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'September 2021',
+      company: 'Housing and Residential Life, Stanislaus State',
+      position: 'Peer Academic Coach',
+      from: 'July 2025',
       to: 'Present',
-      companyLink: 'https://example.com',
+      companyLink: 'https://www.csustan.edu/housing/residential-education',
     },
     {
       company: 'Company Name',
