@@ -87,8 +87,7 @@ const CONFIG = {
     'Microsoft Teams',
     'Galaxy',
     'git hub',
-    
-  ],
+    ],
   experiences: [
     {
       company: 'Housing and Residential Life, Stanislaus State',
